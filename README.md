@@ -1,0 +1,2 @@
+# TwinCAT_ExecutionPoint
+In TwinCAT there are some functions available for debugging. The best known is probably the breakpoint. But this is used with caution, because it stops a running machine immediately. Therefore it is often avoided by programmers by using counters or flags to check the sequence of a control.  Beside the breakpoint there is also the execution point, which was not known to me before. I suspect that many are not aware of this feature and so I would like to share it briefly.  Translated with www.DeepL.com/Translator (free version)
